@@ -1,0 +1,16 @@
+
+codeception_c3_clover:
+    pattern:  c3/report/clover
+    defaults: { _controller: CodeceptionC3Bundle:Default:clover }
+
+codeception_c3_serialized:
+    pattern:  c3/report/serialized
+    defaults: { _controller: CodeceptionC3Bundle:Default:serialized }
+
+codeception_c3_html:
+    pattern:  c3/report/html
+    defaults: { _controller: CodeceptionC3Bundle:Default:html }
+
+codeception_c3_clean:
+    pattern:  c3/report/clean
+    defaults: { _controller: CodeceptionC3Bundle:Default:clean }
