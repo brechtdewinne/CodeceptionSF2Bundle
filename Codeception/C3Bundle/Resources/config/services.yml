@@ -1,0 +1,6 @@
+#    codeception_c3.example.class: Codeception\C3Bundle\Example
+
+services:
+#    codeception_c3.example:
+#        class: %codeception_c3.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
